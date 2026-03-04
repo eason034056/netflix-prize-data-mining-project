@@ -1,0 +1,23 @@
+# 忽略 dataset 和 data 資料夾（不上傳到 GitHub）
+dataset/
+data/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 系統檔案
+.DS_Store
+*.swp
+*.swo
