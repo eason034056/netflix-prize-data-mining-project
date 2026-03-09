@@ -1,0 +1,4 @@
+Method,n_clusters,Silhouette
+K-Means,4,0.2844
+Hierarchical,4,0.2391
+DBSCAN,5,0.6357
